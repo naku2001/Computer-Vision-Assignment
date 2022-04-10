@@ -133,7 +133,7 @@ def main():
                         
                     cap.release()
                     output.release()
-                    cv2.destroyAllWindows()
+                    #cv2.destroyAllWindows()
 
     elif choice == "Home":
         st.subheader("Detect Objects In Video")
