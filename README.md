@@ -2,11 +2,18 @@
 
 # CONTRIBUTORS
 R207764L - VICTOR MARISA
- R204448U - PERFECT-PRINCESS MAKUWERERE
+
+R204448U - PERFECT-PRINCESS MAKUWERERE
  
 # Link to application
+https://share.streamlit.io/victoryeovil/trial/main/app.py
+
+# Link to video
 
 
-# Live Demostration on Youtube
+# Link to google colab
+ https://colab.research.google.com/drive/1_87sARnE5jJTEShnPLYhMczrNYC3t2Ie?usp=sharing
+
+
 
 
