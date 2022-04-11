@@ -138,6 +138,9 @@ def main():
     elif choice == "Home":
         st.subheader("Detect Objects In Video")
         st.image("./ai.jpg")
+    
+    elif choice == "About":
+        st.text('Object detection')
         
        
 
