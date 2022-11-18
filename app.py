@@ -40,7 +40,7 @@ def predict2(frame, model):
 
     img /= 255.0
 
-    # Predict with the VGG16 model
+    # Predict with the inception model
     prediction = model.predict(img)
 
     # Convert the prediction into text
@@ -72,8 +72,8 @@ def object_detection(search_key,frame, model):
 # Main App
 def main():
     
-    st.title("***Real Time Object Detection***")
-    st.text("Machine Learning")
+    st.title("*** Computer vision***")
+    st.text("InceptionV3")
 
     
     choice = option_menu("Main Menu",["Home","Upload","About"],icons = ["house","cloud_upload","list-task"],menu_icon ="cast",default_index = 0,orientation = "horizontal")
