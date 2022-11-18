@@ -9,7 +9,7 @@ R204448U - PERFECT-PRINCESS MAKUWERERE
 https://share.streamlit.io/victoryeovil/trial/main/app.py
 
 # Link to google colab
- https://colab.research.google.com/drive/1_87sARnE5jJTEShnPLYhMczrNYC3t2Ie?usp=sharing
+ https://colab.research.google.com/drive/1wwxvrRBaylohV8mPk4UnCwCr4eopXKez#scrollTo=VKTAkf1-d2_X
 
 
 
