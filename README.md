@@ -10,6 +10,9 @@ https://share.streamlit.io/victoryeovil/trial/main/app.py
 
 # Link to google colab
  https://colab.research.google.com/drive/1wwxvrRBaylohV8mPk4UnCwCr4eopXKez#scrollTo=VKTAkf1-d2_X
+ 
+ # Link to illustrative video
+ https://drive.google.com/file/d/1Qatl10jQSTfMrU75MQugWiOHLUt_X03F/view?usp=sharing
 
 
 
