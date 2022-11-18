@@ -12,7 +12,7 @@ st.markdown('<style>body{background-color:Blue;}</style>',unsafe_allow_html=True
 
 
 
-#Functions
+#Function
 def predict(frame, model):
     # Pre-process the image for model prediction
     img = cv2.resize(frame, (299, 299))
