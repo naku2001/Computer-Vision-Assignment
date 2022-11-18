@@ -1,4 +1,4 @@
-# object-detector-vgg16
+# object-detector-INCEPTIONV3
 
 # CONTRIBUTORS
 R207764L - VICTOR MARISA
