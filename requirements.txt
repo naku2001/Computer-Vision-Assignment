@@ -7,3 +7,4 @@ tensorflow
 numpy
 opencv-python-headless
 matplotlib
+matplotlib
