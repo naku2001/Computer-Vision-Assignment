@@ -5,7 +5,7 @@ R207764L - VICTOR MARISA
 
 R204448U - PERFECT-PRINCESS MAKUWERERE
  
-# Link to application
+# Link to the streamlit application
 https://share.streamlit.io/victoryeovil/trial/main/app.py
 
 # Link to video
