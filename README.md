@@ -6,7 +6,7 @@ R207764L - VICTOR MARISA
 R204448U - PERFECT-PRINCESS MAKUWERERE
  
 # Link to the streamlit application
-https://perfect-princess-computer-vision-assignment-app-iv9i57.streamlit.app/
+https://victoryeovil-trial-app-ewjrh7.streamlit.app/
 
 # Link to google colab
  https://colab.research.google.com/drive/1wwxvrRBaylohV8mPk4UnCwCr4eopXKez#scrollTo=VKTAkf1-d2_X
