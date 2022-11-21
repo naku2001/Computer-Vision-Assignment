@@ -58,6 +58,7 @@ def object_detection(search_key,frame, model):
         if label.find(search_key) > -1:
             sys.exit( st.image(frame, caption=label))
         else:
+            st.text("image found")
              
            
 
