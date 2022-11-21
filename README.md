@@ -12,7 +12,7 @@ https://victoryeovil-trial-app-ewjrh7.streamlit.app/
  https://colab.research.google.com/drive/1wwxvrRBaylohV8mPk4UnCwCr4eopXKez#scrollTo=VKTAkf1-d2_X
  
  # Link to illustrative video
- https://drive.google.com/file/d/1Qatl10jQSTfMrU75MQugWiOHLUt_X03F/view?usp=sharing
+ https://drive.google.com/file/d/1Qatl10jQSTfMrU75MQugWiOHLUt_X03F/view?usp=share_link
 
 
 
