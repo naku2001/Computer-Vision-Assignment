@@ -62,7 +62,7 @@ def object_detection(search_key,frame, model):
              
            
 
-    except:
+     except:
         print('')
             
             
